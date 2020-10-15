@@ -1,0 +1,837 @@
+{
+  "settings": {
+    "name": "FACEBOOK MARKETING TRAINING GUIDE",
+    "currentPage": "THANK YOU.html",
+    "theme": {
+      "name": "mobirise4",
+      "title": "Mobirise 4",
+      "styling": {
+        "primaryColor": "#0f7699",
+        "secondaryColor": "#ff3366",
+        "successColor": "#F7ED4A",
+        "infoColor": "#82786E",
+        "warningColor": "#879A9F",
+        "dangerColor": "#B1A374",
+        "mainFont": "Rubik",
+        "display1Font": "Rubik",
+        "display1Size": 4.25,
+        "display2Font": "Rubik",
+        "display2Size": 3,
+        "display5Font": "Rubik",
+        "display5Size": 1.5,
+        "display7Font": "Rubik",
+        "display7Size": 1,
+        "display4Font": "Rubik",
+        "display4Size": 1,
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      },
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.12.4",
+    "siteFonts": [
+      {
+        "css": "'Rubik', sans-serif",
+        "name": "Rubik",
+        "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
+      },
+      {
+        "css": "'Noto Sans KR', sans-serif",
+        "name": "Noto Sans KR",
+        "url": "https://fonts.googleapis.com/css?family=Noto+Sans+KR:100,300,400,500,700,900"
+      }
+    ],
+    "uniqCompNum": 29,
+    "versionPublish": "4.12.4",
+    "screenshot": "screenshot.png",
+    "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/cover-128x168.png",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
+  },
+  "pages": {
+    "CHAPTER = 1.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "CHAPTER = 1",
+        "order": 23
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323"
+            },
+            ".mbr-section-subtitle DIV": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">CHAPTER 1:<br>What is Facebook Marketing all about?</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">We are more than glad to have you on board and congratulate you on your decision to learn from the best! Facebook is the top social platform for brands and businesses, and Facebook marketing is vital for your growth strategy, yet, it can be difficult to keep up with the competition and the changes that the platform constantly goes through. So, if you want to learn an optimized, streamlined, fool-proof method to outdo whatever your competition is doing, then this training is for you. If you’re new to Facebook Marketing, you’ll be glad to know that we’re starting from the basics, and if you’re not, then this is a great opportunity to get a fresh take. Let’s get started! <br><br><br>\n                <p style=\"font-size:40px\"><u>What is Facebook Marketing?</u></p><img src=\"assets/images/001.jpg\" style=\"width: 300.56px; height: 212px; float: left;\">Facebook marketing is the use of Facebook as a digitalized marketing channel. If we talk &nbsp;more specifically, it is the use of the Facebook and its features to promote your brand, your business, and your products, to engage your audience, to collect leads, to communicate with potential customers, to build awareness, to generate traffic, and to drive sales. Facebook is a marketing-friendly platform with a business-oriented environment, where you can build a presence for your business by providing value through content, conversations, and entertainment. And guess what? It's free forever to all or atleast facebook never asks for money on signup.<br><br> \n<p style=\"font-size:40px\"><u>How does it work?</u></p>\n<img src=\"assets/images/002.jpg\" style=\"width: 325.578px; height: 272px; float: right;\">Facebook Marketing works primarily by building a social presence for your brand that users can interact with. This means you are going to create a profile for your business the same you would create a profile for yourself. In fact, the Facebook Marketing mindset is similar to the personal brand mindset: you create a page for your business that people can Like or Follow, where you are going to publish posts that sound casual and engaging to make it easier for people to interact with your brand. Once you establish a presence and build a following, you are going to raise awareness about your products, services, and offers by curating branded content from your website or other content channel. Right after you can start promoting your stuff a little more aggressively through contests and by sharing promotions such as discounts to get your audience interested in your stuff. Then you can start using Facebook features for businesses, such as Facebook ads and Facebook remarketing.Why should you consider Facebook for Marketing? The most primary reason for using Facebook as a marketing tool is it is still the most visited, most active social media site that exists, with over a billion active users a month. This means that finding the perfect audience for your business is easier on Facebook. Facebook itself provides you with plenty of tools to engage your audience, including business pages, groups, chat, live video, and multimedia posts. They also gives you all the flexibility you need to promote your brand and to send traffic from your pages and groups to your website. Plus, Facebook has what is perhaps the second largest and most cost-effective advertising platform on the internet. <br><br>\n<br><p style=\"font-size:40px\"><u>What benefits can Latest Facebook Marketing bring for your Business?</u></p>\nWith Facebook Marketing you will learn all the steps involved in building a presence for your business on Facebook the right way. Here you’ll also learn the marketing tactics that work on Facebook, and proven strategies with an amazing track record of generating results and profits for businesses in any niche. Latest Facebook Marketing also shows you the correct way of setting up paid campaigns on Facebook for maximum results and maximum return on investment, so every dollar your business puts into paid ads goes back to your balance. Furthermore, with Facebook Marketing you’ll learn how to create long-term brand loyalty and repeating customers at a fraction of the cost you’ll pay if you hired an agency, all by learning how to do it yourself! Now, Tighten your seatbelt and get ready for a boost!<br><br>\n<a href=\"DISCLAIMER.html\">&lt;&lt; DISCLAIMER&nbsp;</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href=\"CHAPTER = 2.html\">CHAPTER = 2 &gt;&gt;</a></h3></div>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        \n    \n</div></section>",
+          "_cid": "scWc4xPnzQ",
+          "_anchor": "content4-2",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "CHAPTER = 2.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "CHAPTER = 2",
+        "order": 22
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">CHAPTER 2: \n<div>Creating A Facebook Page To Promote Your Business?\n</div></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Now, let’s start at the very beginning: creating a Facebook page to promote your business. This is a very important step that you can’t afford to half bake, because a Facebook page for your business is the channel that you are going to use to build your presence and grow your audience. Having a Facebook page also makes it easier for you to set up advertising campaigns and capturing email leads on the platform! Getting Started Creating a Facebook page for your business is a free forever action, and all you need is a Facebook account and your business info at hand. \n<div>To get started,</div><br><div>\n</div><div><b>Step -1</b></div><div> </div><div><img src=\"assets/images/003.jpg\"><br>Simply log in to your Facebook account, click on the “create” tab in the top bar menu, and then click on the “page” option. \n</div><div><b><br></b></div><br><div><b>Step-2</b></div><div><img src=\"assets/images/004.jpg\"></div><div>Next, click on the “get started” button in the “business or brand” section. Customizing And Creating Your Page Now you are going to enter the name of your brand or business into the “page name” field. Now type the keyword that best describes your niche into the “category” field. Select a category from the results, and then click on “continue”.</div><br><div>\n</div><div><b>Step-3</b></div><div><img src=\"assets/images/005.jpg\"><br>Now, you have to customize the page.<span style=\"font-size: 1.5rem;\">First, click on “upload a profile picture” to add a profile photo to your Facebook page.&nbsp;</span><span style=\"font-size: 1.5rem;\">Next, click on the “upload a cover photo” button to upload a cover photo to make your Facebook page much more attractive and beautiful.</span></div><br><div><br></div><div><b>Step-4</b></div><div>Now it is time to add a contact button and your business information to your Facebook page. To add the CTA button, click on “add a button”, and then click on the “contact you” drop-down icon. Now you are going to select the contact method you want to integrate with your page. The options include “contact us”, “send message”, “call now”, “sign up”, and “send email”.</div><br><div> \n</div><div>The above things maybe proved to be tiny in your eyes but they are useful in proving your business authentic and genuine.  Ignoring them may affect your brand awareness and product sales. Your choice will depend on how you want to be contacted, and each option allows you to integrate a different method. For this example, we are going to select “send message”. This method allows users to send a message directly from their Facebook accounts using Messenger. So, select your contact method, and click on “next”. In the following window, you’ll simply have to select the service users will use to contact you, and then to click on “finish”. \n</div><div>You can start building your page’s audience by sending invites to your Facebook friends in the “invite your friends to like your page” section. </div><br><div><b>Step-5</b></div><div>Alright, now it is time to add your page info. To do this, click on the “edit page info” tab on top. Start by adding your “about” info into the “description” field and click on “save changes”. Ok, now you are going to move to the “contact” section to add your contact information. </div><br><div>First, add your “phone number”. </div><div>Then add your “website”.</div><div>And then add your “email address”. </div><br><div>Remember to click on “save changes” to save your contact info. Now move to the “location” section and enter your address. In case your business doesn’t have a physical address, simply uncheck the “has a street address” option. Or, in case that you enter your business registration address but don’t take store visits, uncheck the “customers visit my business at my street address”. This is the setting you’ll choose if your business is online only. Ok, so click on “save changes” and move to the “hours” section. Here you are going to select the open hours that you’ll show on your page.</div><div>If you have a physical store or business that customers can visit, select “open on selected hours”, then select your open days and times below.</div><div>If your business is 24 hours or always online, you can select “always open”. Now, if you’re online only and don’t take live orders or consultations, select “no available hours”. You can click on “save changes” after selecting your hours. You can enter additional information in the “more” section. Let’s start with the “impressum” field, where you have to add a declaration of business ownership if you reside in a country where it is required by law. In the “products” field you can add the names of products and services that you sell. </div><div>Lastly, in the “privacy policy” field you can add your privacy policy and terms of service. This is especially useful when you take customer information on your page, or when you contact your page followers. </div><br><div>And this is it fellas! You just created your Facebook channel successfully, and you are ready to get your  Facebook Marketing going, so don’t miss the following lesson!</div><br><br><div><b><i><a href=\"CHAPTER = 1.html\">&lt;&lt; CHAPTER = 1</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</i></b><i><a href=\"CHAPTER = 3.html\">CHAPTER = 3 &gt;&gt;</a></i></div></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "scWcDa8z62",
+          "_anchor": "content4-3",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "CHAPTER = 3.html": {
+      "settings": {
+        "meta_descr": "Site Generator Description",
+        "title": "CHAPTER = 3",
+        "order": 21
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323",
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">Chapter 3:\n<div>Creating Optimized Facebook Marketing Posts</div></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Facebook pages are not just pages but a much more counter of virtual billboards, they’re basically social profiles for brands, companies, and businesses, and they give you all the tools you need to interact with your audience. The primary and most basic tool for interaction is Facebook posting. With Facebook posts you can establish thought leadership by engaging with users through comments, images, videos, and curated content. But Facebook posting can be ineffective if not done right, and in this lesson, we are going to teach you how to compose optimized Facebook posts that reach more people and generate more engagement.<br><p style=\"font-size:40px\"><u><br></u></p><p style=\"font-size:40px align:center\"><u>Creating And Composing A Facebook Marketing Post</u></p><img src=\"assets/images/006.jpg\" style=\"float: right;\"><br>To create a post on Facebook, you have to start by going to your page and clicking on the “write a post” field on top of the page timeline. Here is where you are going to compose your marketing posts. Now, the secret to creating an effective marketing post is to compose the right structure. <br>  <br><b>Start with a headline.</b> The post headline is a one-line description of the content in your post and decides the user decision to read or just scroll. Think of it as a blog post title. You have to include an actionable phrase or word, such as “read”, or “watch”, or “you won’t believe”, or information that makes the user stop to read the headline.   Now you are going to compose the post copy below. This is going to depend on the content that you are going to share. In general, your post copy is going to be a brief summary of the content that you are going to share.<br><br>Now, a <b>little-known secret</b> to increase your reach is to use keywords in your post as hashtags. Simply identify the keywords in your post text and type a <b>hashtag</b> symbol right before them. This will transform them into hashtags that make your post discoverable in Facebook searches which will definately increase your brand value. Adding Media And Content Now you are going to insert the media or content that you are going to share, into your post. If you are going to share an image or video, you will simply have to click on the “photo/video” button&nbsp;<img src=\"assets/images/007.jpg\" style=\"width: 406.639px; height: 245px; float: left;\">to upload your  media. This is crucial, because text-only posts don’t generate as much engagement as image or video posts. The type of media that generates the &nbsp; &nbsp; most engagement on &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Facebook are infographics, short videos, and images, so make sure to always include them in your posts.  For this example, we are going to share a blog post from our website. When you insert a link into a Facebook post, Facebook will fetch a preview that includes the feature image from the URL into your post.<br>A word of warning: if you are going to post a video, make sure to upload it directly to the post using the “photo/video” button, instead of sharing it from an outside link. If you share a video from an outside source, the Facebook algorithm basically ignores it, and won’t push it to the timeline of other users. It will only be visible to users that visit your timeline! Ok, so let’s proceed with the example. To insert a link, simply paste the URL below your post text. Once it fetches the preview and inserts the clickable link, you simply have to delete the text URL you pasted. Publishing a Post You can see how your post is going to look in the timeline by clicking on the “preview” button. In the preview window, you can see a desktop preview and a mobile preview. Once you are ready to publish your post, click on the “share now” button. And that’s it!<br><img src=\"assets/images/008.jpg\"> <br>This is how you are going to compose your Facebook post from now on to get the most engagement and the best results possible. Next up we are going to show you how to easily boost the reach of your newly published post, <br>so stay tuned!&nbsp;<br><br>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href=\"CHAPTER = 2.html\">&lt;&lt; CHAPTER =&nbsp;2</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"CHAPTER = 4.html\">CHAPTER = 4 &gt;&gt;</a></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "scWd9m1WUx",
+          "_anchor": "content4-4",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "CHAPTER = 4.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "CHAPTER = 4",
+        "order": 20
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">Chapter 4:\n<div>Promoting A Facebook Marketing Post\n</div></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">&nbsp;A well-composed, well-optimized marketing post on Facebook can generate a ton of engagement quickly, at no cost. Yet, the number of people using the platform that you won’t reach organically is still astronomical when you think of it. And let us tell you, you don’t want to miss them! But to able to reach those extra eyeballs, you will need to boost your post, with a paid promotion. The good news is that you can easily do it with just a few clicks, and in this lesson, we are going to show you the right way to do it.<br><br> \n<div>\n</div><div><b>Getting Started \n</b></div><div>You can promote a page post directly from your Facebook page,<img src=\"assets/images/009.jpg\" style=\"float: right;\"> hassle free. And all you have to do to get started is to go to your page, to locate the post that you are going to promote, and to click on the “boost post” button.  A “boost post” window will appear on screen, and you can start setting it all up. This is easier than it looks, you’ll see!</div><br><div> \n</div><div><b>Setting Up The Promotion\n</b></div><div>Start by selecting your “objective”, which is the result you want to get from promoting your post. Because the objective of your post is to generate reactions from users to build your presence on Facebook, let’s select “get more people to react, comment, and share” as the objective. You can add a “post button”, which is a call-to-action button for your post, but this is optional. </div><div>In this case, a CTA button can divert attention from the post directly to the link, so let’s click on the post button menu and select “no button”.</div><div> <img src=\"assets/images/010.jpg\"></div><div>This will encourage users to scan all content in the post before clicking on the link.&nbsp;<span style=\"font-size: 1.5rem;\">This also leaves more post real estate to the link preview, which looks way better on the timeline! Let’s now move to the “audience” section. Here you are going to select “people you choose through targeting”, and to click on the “edit” button. Next, you are going to select the “gender”, the minimum and top “age” of your audience, and your “locations”. Next, enter a keyword that best describes your potential audience into the “detailed targeting” field, and select a “detailed targeting” criteria from the menu. This will help you to reach people more easily according to interests and behaviours. You can click on “save” to save this configuration and continue. Now you are going to scroll down and make sure that “automatic placements” is activated. When this option is active, promoted posts will show on Facebook and many other placements in the Facebook network, automatically.</span></div><div>Now move to the “budget and duration” section. Here you are going to select a duration first, using the “days” menu. Next, you are going to enter the amount of money you want to spend to promote your post into the “total budget” field. Here we recommend that you enter a total of $5 to $10 to test your promotion first. You can then increase this amount. You can see the “estimated reach” below. This is the number of people that will potentially see and interact with your post according to your total budget and duration.</div><br><div> \n</div><div><b>Launching The Promotion</b></div><br><div><b>\n</b></div><div>Lastly, you are going to select the currency that you are going to use to pay for your ads in the “payment” section. You can preview your ad in the preview window to the right before you launch your ad.    And, once you are ready to launch your ad, you will simply have to click on the “boost” button. Your post will start showing between 5 to 15 minutes after launch. And that’s it!</div><br><div> An easy, affordable way to reach more people with your Facebook marketing posts! \n</div><div><br></div><br><div><a href=\"CHAPTER = 3.html\">&lt;&lt; CHAPTER = 3 </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"CHAPTER = 5.html\">CHAPTER = 5 &gt;&gt;</a></div></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "scWdx4cVYS",
+          "_anchor": "content4-5",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "CHAPTER = 5.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "CHAPTER = 5",
+        "order": 19
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">Chapter 5:\n<div>Creating A Targeted Facebook Group\n</div></h2>\n\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\"><img src=\"assets/images/012.jpg\" style=\" float:=\" \"=\"\" justify\"=\"\"><br>One thing you’ll notice this far into the training is that our main objective has been to increase engagement and to create more and more ways to drive interactions and conversations with Facebook users. The reason for this is that the objective at this point in your Facebook Marketing journey is to find as many users whom to build a relationship with so you can qualify them as customers later on. One of the best ways to find leads in your niche and spark meaningful conversations with them is by creating a group that is targeted at their interests and behaviours, and in this lesson we are going to show you how to create one of your own, the easy way. <br><br><b>Getting Started</b><br>Ok, so what you’ll do first is to sign into your Facebook account. Next, you are going to click on the “create” tab in the top bar menu, and then you are going to click on the “group” option. Creating A Group Now you are going to add the info to personalize your group. Start by entering the name of your group into the “name your group” field. Now, the name of your group doesn’t need to be the name of your brand or business, because you already have a page for that. Instead, the best strategy is to use a name that targets the interest, needs, or behaviours of your potential customers. <br>You can for example, use the keywords or search terms that describe the problem that your products solve, or the category of your products or services. In this example, we are going to create a group for people looking for cheap products in our niche, so we’ll start the name with the word “cheap”, followed by the category name of the product. This way, we are going to use a high-traffic search name as the name of our group. Next, you are going to add the email addresses or Facebook usernames of people that you’d like to invite to join the group. This is step is optional, but you can use it in case that you are creating a private group, or when you are given permission by your followers to send them invites and notifications. Now you are going to select the group “privacy”. Here we recommend you set it as “private”. While this can lower the number of people that join the group initially, you’ll be avoiding spammers and bots lowering the quality of your group.  By creating a private group, you are going to be able to approve who joins the group, and what type of content goes there. By demanding that users ask for approval, you will be able to qualify who is really interested in the content because approval request works as double opt-in. Now select “visible” in the menu below to make your group visible to everybody in the results page and click on the “create” button. <br><br><b>Customizing a Group</b><br>Now it is time to customize the group. Start by clicking on the “upload photo” to add a cover image to the group. Now you are going to click on “create topic” to add your topic keyword. Now you are going to click on “add a description” to add a description for your group. This is the description that users will see in the results page. And now that you have created your group, you are going to be able to create posts, to publish images, videos, and to share curated content. Remember that the content and media that you share on this group has to be targeted content, not branded content. Share content that encourages members to discuss and share their own experiences, to give recommendations, and so on. \n<div>The more you engage with group members, the more you’ll grow your authority. This is because, instead of promoting your own stuff like you would do in your page, you are going to share content to show your expertise, regardless of source. Let’s show you a quick example. We are going to post a video about a topic that matters to our audience. So, we will start by composing the post into the text box. Because this isn’t a marketing post, we are going to use a more conversational tone, and we are going to compose a larger message. Next, we are going to click on “photo/video”, and then on “upload photos/video” to upload the video directly to the post. Then we are going to click on “post”. And this it! You just created an awesome group for your would-be customers, and all you have to do is to publish engaging posts every day to keep your group alive! \n</div><div><br></div><br><div><a href=\"CHAPTER = 4.html\">&lt;&lt; CHAPTER = 4 </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"CHAPTER = 6.html\">CHAPTER = 6 &gt;&gt;</a></div></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "scWdRX3xg5",
+          "_anchor": "content4-6",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "CHAPTER = 6.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "CHAPTER = 6",
+        "order": 18
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">Chapter 6:\n<div>Facebook Content Marketing Calendar And Scheduling Posts\n</div></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">If you’ve been doing content marketing recently, then you should be familiar with the term “content marketing”. If you’re not, content marketing is simply the use of content in any format to drive and achieve marketing results. Now, the thing about content marketing is that it has to be strategic. If you want to drive results using content, then you need to know when’s the right time to launch your content pieces. This is especially important when you do content marketing on social media, because not all social media sites generate the same level of engagement at the same times.   In fact, it’s been found that users on Facebook engage the most at different times than users on Twitter, or on Instagram, and you need to use this information for your advantage. <br>The good news is that we’ve tracked and analyzed how our Facebook followers react to our content, when they engage the most, and when they interact the best, and we’ve prepared a content marketing calendar that you can apply in your Facebook Marketing campaign. <br><b>  </b><br><br><b>Planning Your Content (Marketing Calendar)</b><b><br></b>Before you sit down to decide your social media posting schedule, it is important that you actually know what you’ll post. Having a clear idea of the type of content you will publish will make it way easier for you to plan your content marketing schedule: <br><i><b>✓&nbsp;</b></i>  Make an audit of the type of content that you have created in the past and identify the topics that have generated the best results. If you are new to social media or content marketing in general, simply do some research about the topics that people in your niche like the most. Find out what formats generate the most engagement, and what content has gone viral in the past. When you are clear about this, you will be able to identify several topics and keywords that you can use as inspiration to create content. <br><b><i>✓ &nbsp;</i></b>Find and collect highly informational content pieces from competitors in your niche. Look for videos and blog posts. Follow authority accounts in your niche, examine their Facebook posts, and save the ones that you think your audience will like. Once you have identified the best topics to share in your page and business, and after you have collected a good number of content pieces, videos, and Facebook posts, you are going to prepare a posting schedule according to these guidelines: <br><b><i>✓</i></b>&nbsp; The best times to post on Facebook are on Mondays from 8 AM to 4 PM, on Tuesdays from 7 AM to 4 PM, on Wednesdays from 8 AM to 4 PM, on Thursdays from 8 AM to 4 Pm, on Fridays from 7 AM to 4 PM, and on Sundays from 9 AM to 1 PM. Saturdays are a low-engagement day all across the board. <br><b><i>✓</i></b>&nbsp; The best posting frequency on Facebook is 2 posts per day. What you’ll do is to prepare a calendar where you’ll mark what content pieces you are going to post in the future, in their respective days and times. Scheduling Your Posts Now, it is important that you learn how to automate scheduling. This way you won’t have to stay vigilant of those dates when you have to post content, because you can simply create the posts ahead and to schedule when they’ll be published. To create a scheduled post, go to your Facebook page, and click on the “publishing tools” tab in the top bar menu. Next, click on the “create” button.   What you have to do next is to create a page post like you would normally do. First, compose your post headline and copy into the text field. Next, insert the media or link, and add the other customizations you want to add. Now that you’ve created the post, you are going to schedule it by clicking on the “share” menu button, and then clicking on the “schedule” option. Next, click on the calendar function to select a date to publish your post. Now enter the time when you want to publish the post on that day. Then click on “schedule”. To finalize, click on the “schedule post” button. Your post will enter the scheduled queue, which you can check by clicking on the “scheduled posts” tab under the “posts” menu. And that’s it!&nbsp;<br><br><a href=\"CHAPTER = 5.html\">&lt;&lt; CHAPTER = 5</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"CHAPTER = 7.html\">CHAPTER = 7 &gt;&gt;</a></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "scWemy4VlS",
+          "_anchor": "content4-7",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "CHAPTER = 7.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "CHAPTER = 7",
+        "order": 17
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">Chapter 7:\n<div>Using Facebook Live To Boost Engagement And Product Awareness\n</div></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\"><img src=\"assets/images/024.png\"><br>&nbsp;You might already be aware that live streaming is all the rage these days, and with reason. Live streamers can interact with their followers and showcase products in real time, which increases engagement, product awareness, brand recall, and loyalty. Facebook offers one of the most sophisticated and simple to use live streaming platforms you can use, with the added benefit of Facebook discoverability. In this lesson, we are going to teach you the easy method to go live on Facebook so you can grow the relationship you have with your audience faster and showcase your offers in a more dynamic way. Going Live On Facebook To go live on Facebook, sign into your account, go to your Facebook page, and click on the “live” button inside the “create” section.   This will open the live broadcast window, where you have to select “camera” to use a webcam to broadcast, or “connect” to broadcast using live streaming software. In this case, we are going to select “connect” so we can configure the live stream with external software, using the information provided in this window. Now it is time to add your information to the broadcast. First, you are going to select where you are going to share your live broadcast. For this, click on the “share” menu button. You can share on your timeline, on a group, on an event, or on a page. For this example, we are going to select to share on a page, and then we are going to select the page we created a few lessons ago. Next, enter the description of your live broadcast into the field below. Here it is recommended that you compose a description that includes keywords, search terms, and in case you are promoting a product, the sales page URL. In this case, we are going to discuss a product that we are promoting, so we are going to add the name of the product, niche keywords related to the product, and the sales URL with a call-to-action at the end. Now add the title of your live broadcast into the “title” field. Then, add your niche keywords into the “tags” field. This will make your broadcast more easily discoverable in the results page. Now click on the “settings” tab. Here you are going to configure your live broadcast settings. The default settings are adequate for marketing purposes, so you can scroll past to the “cross-posting” section. If you have other pages that are related to your business page, here you can select them to share your live broadcast inside them too. Lastly, you can click on the “interactive” tab to select to create polls or triv ia questions that your audience can respond while you are live! You simply have to click on “add question” to create your poll. Because we are creating a product promotion in this example, we are going to ask viewers what other products in the niche they use, and we are going to add the options as answers below. You can click on “save” after you add your question and answers. And now that you have fully configured your live broadcast, all you have to do is to click on the “go live” button! No other social media makes it this easy to engage with your would-be customers in real time!<br><br><a href=\"CHAPTER = 6.html\">&lt;&lt; CHAPTER = 6</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"CHAPTER = 8.html\">CHAPTER = 8 &gt;&gt;</a></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "scWeOUw6Dq",
+          "_anchor": "content4-8",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "CHAPTER = 8.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "CHAPTER = 8",
+        "order": 16
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323",
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">Chapter 8:\n<div>Collecting Leads With A Facebook Giveaway Campaign\n</div></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Now that we got over the engagement strategies, let’s move on into the lead generation strategies. When it comes to Latest Facebook Marketing, the most effective lead generation strategies are all about encouraging intent by giving away to people something that is hard to resist. Giveaways are an easy way to achieve this, and in this lesson, we are going to show you the easiest, most effective way to set up giveaways that collect leads for you, and that also send people to your Facebook pages. Ready? Yes? Then let’s get started. <br><br><b>Getting Started </b><br>Our recommended, stress-free method to set up giveaways is by joining a giveaways platform. There are several to choose from, but most are paid, so in this lesson we are going to recommend you to use “Gleam”, a marketing platform that lets you create and run beautiful giveaways with no overhead costs, and that doesn’t require a credit card to get started. To join Gleam, simply visit the “gleam.io” URL, click on the “sign up” button, and complete the registration steps. <br><br><b>Setting Up The Giveaway Campaign</b><b><br></b>Alright folks let’s start this step on your dashboard, right after you register on the platform. First, click on the “new competition” button to start creating the giveaway. Next, enter the name of the giveaway campaign into the “name” field. Now use the calendar functions below to select the date when the giveaway “starts” and when it “ends”. Now select the correct “time zone” for your giveaway. Now enter your giveaway terms and conditions into the “terms and conditions” field. Also, click on the “captcha” menu button and select “always require a captcha” to stop bots from spamming your competition. Now click on the “user details” tab. Click on the “minimum age” menu button and select “18+ checkbox”. Now delete all options in the “allow login” section except “email” and “Facebook”. Next, enter your Facebook page URL into the “allow users to like a Facebook page” field. Then make sure that the “Build Competition Subscriber list” option is checked, and click on the “how to enter” tab.   On this page you are going to click on the “Facebook” icon, and then you are going to select the “Facebook entry” method. In the “Facebook entry” section, select “like a page”. Then, enter your Facebook page URL and your Facebook Page ID into the fields below. Now check the “mandatory” option, and click on the “prize” tab. Here you are going to enter the name of your prize into the “widget title” field, and then a description of your prize into the “description” field. Now you are going to enter the number of winners into the “number of winners” field. Launching The Giveaway Campaign Now that your giveaway campaign is fully personalized, you can click on the “save” button to launch it. <br>And that’s it! You can now share your giveaway campaign using the methods on this competition page!<br><br><a href=\"CHAPTER = 7.html\">&lt;&lt; CHAPTER = 7 </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"CHAPTER = 9.html\">CHAPTER = 9 &gt;&gt;</a></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "scWfjxaAG3",
+          "_anchor": "content4-9",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "CHAPTER = 9.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "CHAPTER = 9",
+        "order": 15
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323",
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">Chapter 9:\n<div>Integrating A Lead Capture Campaign On Your Facebook Page\n</div></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Did you know? You can use your Facebook page to capture email leads with just a few clicks and a simple integration. And in this lesson, we’ll continue to the second stage of lead generation in your Latest Facebook Marketing journey by showing you how to integrate your mailing list on your Facebook page.<br> <br><b>Getting Started</b> <br>The right way to integrate lead generation to a Facebook page is by connecting to an email marketing service. There are many email marketing services you can choose from, and in this lesson, we’ll be using MailChimp. If you use a different email marketing service there is nothing to worry about though, as email marketing integration is the same across the board, which means you can apply very similar steps regardless of the platform you use!<br><br><b>Integrating Your Mailing List And Your Facebook Page</b> <br>Ok, so let’s start by signing in to the MailChimp dashboard. From here you’ll click on the profile menu, and then on the “account” option. In the following page, you are going to click on the “integrations” tab. Now you are going to click on the Facebook tab. Then on the “login” button. Make sure that you are logged in to your Facebook account when take this step! Next, click on the “continue as” button, and then on “ok” to give MailChimp access to your Facebook account and pages. On this same page, click on the “page to use” menu button, and select the page where you’ll integrate the sign-up form. Now click on the “audience to use” menu button to select the list where you’ll save your Facebook leads. Next, select “yes” under “use sign up tab”. Now click on the “form theme” menu button and select “Facebook-esque”. Now you are going to enter the label of the sign-up tab on your Facebook page into the “tab label”, and then click on “save”. <br><br><b>Checking Your Lead Capture</b> <br>Form Let’s now go to our Facebook page to see the sign-up form that we just integrated. The form will integrate in the page tabs menu on the left, so that’s where you are going to check. And there you go; this is the sign-up form tab label we set up. Let’s click on it to check it out! As you can see, a complete sign up form integrated with your Facebook page, with just a few clicks! <br>Now your page followers and visitors can join your mailing list easily.<br><br><a href=\"CHAPTER = 8.html\">&lt;&lt; CHAPTER = 8 </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"CHAPTER = 10.html\">CHAPTER = 10 &gt;&gt;</a></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "scWfxGTRd6",
+          "_anchor": "content4-a",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "CHAPTER = 10.html": {
+      "settings": {
+        "meta_descr": "Site Generator Description",
+        "title": "CHAPTER = 10",
+        "order": 14
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323",
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">Chapter 10:\n<div>Creating A Facebook Web Traffic Ad\n</div></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Each one of the steps and strategies we’ve been showing you are the crust of proven Facebook Marketing strategies, but if there’s one thing you learned at the beginning of this training is that paying is a great way to accelerate your results. Now, the first paid strategy we showed you was about promoting a Page post to reach more people, but this time we want to increase the stakes. This time, we are going to show you how to create an advertising campaign to send people from an ad on Facebook straight to your website. Getting Started Facebook has its own self-serve ad platform that lets you create ads with just a few clicks. To access it, all you have to do is to visit the “facebook.com/adsmanager/creation” URL while logged in to your Facebook account. This will take you to the ads manager dashboard, where you can set up your own campaigns like a professional advertiser. Are you ready to do it? Yes? Awesome, let’s get to it! <br><br><b> Creating A Facebook Traffic Campaign</b><br> That URL will take you straight to the campaign creation page, where you have to start by selecting the campaign objective. To send traffic from Facebook to your site or a landing page, you have to select “traffic” as your marketing objective. Once you select your objective, scroll down and enter the name of your new campaign into the “campaign name” field, then click on the “set up add account” button. You will be asked to select your “account country”, your “currency”, and your “time zone”. You can click on “continue” to finish setting up your ad account and moving to the campaign set up. <br><br><b>Setting Up The Ad Set </b><br>The next step is to set up the ad set. First, enter the name of this ad set into the “ad set name” field. Now select “website” as your traffic destination in the “traffic” section.   Now move to the “audience” section. Here you are going to select your target locations first. Click on the “edit” button in the “locations” section. Type the name of a location into the “add more locations” field and select the location from the results. Now you are going to click on the “edit” button in “age” to select the minimum and maximum age of your audience. Then you are going to repeat this step in the “gender” section to select the gender or genders of your audience. Now click on the “edit” button in the “detailed targeting” section. Just like when you created the promoted page post, here you are going to enter a keyword that defines your audience, and you are going to select an attribute to target from the results. Now move to the “placements” section. There are two placement configurations to choose from. Select “Automatic placements” if you want to show your ad to all types of users on all types of devices across multiple placements, including Instagram and the Audience Network. Or select “edit placements” if you want to select the placements and devices where to show your ads. Now move to the “budget and schedule” section. The optimal configuration here for this type of campaign is to select “daily budget” as the budget strategy, and to select “run my ad set continuously starting today” as the schedule. Then, enter your ad spend into the budget field. This is the amount you’ll spend daily in ads. Now enter the maximum you are willing to pay per each click on your ad into the “cost control” field. If you don’t enter an amount here, Facebook will automatically bid in your behalf and you can end up spending more than you planned! You can click on “continue” to move to the next step after you finish configuring everything on this page. <br><br><b>Creating The Ad And Launching The Campaign</b> <br>Now it is time to create the ad creative. Start by entering the name of your ad into the “ad name” field. Now move to the “identity” section. Click on the “Facebook page” menu button and select the Facebook page of your business. Now you are going to select your ad format. There are three ad formats available: “carousel”, “single image or video”, and “collection”. Let’s select “single image or video” to create an ad that is simple to customize. Now move to the “media” section to upload the image or video that you’ll use in your ad. First, click on the “add media” menu button. For this example, we are going to click on “add image” to upload an image to the ad. Now move to the “text and links” section. Here you are going to add your ad copy, your ad title, and your destination URLs. Start by composing your ad copy into the “primary text” field. Next, compose an ad headline into the “headline” field. Now make sure that “website” is selected as the “destination” and enter your website’s or landing page URL into the “website URL” field. Now click on the “call to action” menu button and select a “call to action” button to insert on your ad. There are several types of “call to action” buttons available that you can insert according to the offer or content in the destination URL. You can also select “no button” if you don’t want to add a “call to action” button to your ad. Now that your ad is finished, check the preview window to see how your ad will look like on different placements. Next, click on the “review” button to review your campaign settings, and click on “confirm” to launch your campaign. Your ad will be reviewed by the ad approval team and will launch in around 5 to 15 minutes after you submit it. <br>And that’s it!<br><br><a href=\"CHAPTER = 9.html\">&lt;&lt; CHAPTER = 9</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"CHAPTER = 11.html\">CHAPTER = 11 &gt;&gt;</a></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "scWfZiv5mx",
+          "_anchor": "content4-b",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "CHAPTER = 11.html": {
+      "settings": {
+        "meta_descr": "Web Generator Description",
+        "title": "CHAPTER = 11",
+        "order": 13
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323",
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">Chapter 11:\n<div>Creating A Facebook Remarketing Campaign\n</div></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">There are going to be a lot of times when you get website visitors that will simply forget that your business exists a few minutes after, even if they liked your content and intended to visit your site again, simply because they get distracted with something else. Because of this, Facebook offers an amazing marketing service called remarketing. With remarketing, Facebook tracks users that visit your website and shows them your content when they’re on Facebook. This is a very technical marketing method for advanced users, but in this lesson, we are going to show an easy way to create Facebook remarketing campaigns in just a few clicks. <br><br><b>Getting Started </b><br>Remarketing works by tracking Facebook users that visit a website using a tracking code called the Facebook Pixel. The Facebook Pixel is simply a line of code that you have to install on your website once, and you will find it right on the ads manager. So, you have to start by visiting the “facebook.com/adsmanager” URL while logged in to your Facebook account. Next, you are going to click on the menu icon in the top bar and then on the “pixels” option under the “measure and report” section. This will take you to the “data sources” page, where you’ll find the pixel code corresponding to your ads account. To get your pixel, click on the “set up pixel” button, then click on “manually add pixel code to website”. Now you are going to click on the code to copy it to your clipboard, so you can install it on your site. <br><br><b>Installing The Remarketing Code On Your Site</b> <br>You are going to install this code into the header section of your site. This will depend on what type of content management system you use. We currently use WordPress, so in this example we are going to show you how to install it on a WordPress site, though adding the code in that section of your site is going to work the same on other CMS. If you’re using WordPress, go to your site’s dashboard, move over the “appearance” tab in the sidebar menu, and click on the “theme editor” option. In the following page, locate “theme header” under the “theme files” menu and click on it. What you’ll do now is to locate the “&lt;/head&gt;” tag and paste the pixel code right above it. Now click on “update file” to install the code on your site.   Now go back to where you left on Facebook and check that the pixel is active. Once the pixel shows activity, click on “continue”. In the following page, click on “manually add event code”. Now click on the “view content” option. Scroll down this page and copy the event code. Now go back to WordPress and paste this code right below the “&lt;/head&gt;” tag. Then, click on “update file”. Awesome! Now the tracking code is fully installed and working on your site, so you can create remarketing campaigns, so let’s get to it!<br> <br><b>Creating A Remarketing Campaign </b><br>Creating a Facebook remarketing campaign is fairly similar to creating a traffic campaign, just like we did in the previous lesson, so what you’ll do is to go to your ads manager dashboard, and then you’ll click on the “create ad” button. Once in the campaign creation page, select “conversions” as the marketing objective. Next, enter the name of this campaign, click on “set up ad account”, and then click on “continue”. Now it is time to set up the ad set. Start by entering the name of this new ad set into the “ad set name” field. Now move to the “conversion” section. Make sure that “website” is selected as the “destination”, Then, click on the “conversion event” field and select “view content” as the conversion event. Leave the “cost control” field empty and move to the “audience” section. Here we are going to define the remarketing audience just like we did in the previous lesson, so let’s start by selecting the target locations. Next, let’s select the “age”, and then the “genders”. Lastly, let’s open the “detailed targeting” section to define the detailed targeting with keywords. In “placements” we are going to leave “automatic placements” selected, so let’s move to the “budget and schedule” section. Here you simply select “daily budget” as the budget strategy, and “run my ads continuously starting today” as the schedule. Enter your daily budget into the amount field, and click on “continue” to start creating the ad. First, enter the name of the remarketing ad into the “ad name” field. Now move to the “identity” section, click on the “Facebook page” menu button, and select your Facebook business page. Because your remarketing targets come from viewing on your site, the best strategy here is to show them more content by targeting them with one of your page posts. So, what you’ll do now is to click on the “use existing post” tab. Now click on the “select post” button. Next, select the Facebook post that you are going to remarket and click on “continue”. Now preview your remarketing ad in the preview window to the right, click on “review” to review your campaign settings, and then click on “confirm” to launch the campaign. <br>And that’s it! An easy way to create Facebook Remarketing campaigns so you never miss the chance of converting a website visitor into a Facebook lead!&nbsp;<br><br><a href=\"CHAPTER = 10.html\">&lt;&lt; CHAPTER = 10 </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"CHAPTER = 12.html\">CHAPTER = 12 &gt;&gt;</a></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "scWggVH3r4",
+          "_anchor": "content4-c",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "CHAPTER = 12.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "CHAPTER = 12",
+        "order": 12
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">Chapter 12:\n<div>The Perfect Facebook Marketing Plan For 2020\n</div></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Everything worth doing takes a plan to get done, and Latest Facebook Marketing is no exception. And contrary to what lots of people believe, plans don’t need to be complicated, convoluted mashes of unachievable, unrealistic goals. A streamlined, simplified plan full of actionable steps will always be your best bet, and today we are going to show the perfect Facebook Marketing plan for 2020 and beyond. <br><br><b>  Set Your Goals Straight</b><br> Start out by defining your Facebook Marketing goals. What is it that you want to achieve by promoting your business on Facebook? No matter what your goal is, you have to make sure that it is achievable in a reasonable time and within your means. This means that you have to set goals that are realistic and that are consistent with your current capacities and budget. For instance, if you’re just getting started, your goal shouldn’t be to drive sales from the get-go, but to grow your brand’s presence so people become aware that it exists. This is a realistic goal because, unless you have a very large budget to freely spend on ads, the first step to make people want your products is to get them to know your brand first, and then to make them familiar with your products so they trust you with a purchase. On the other hand, if you’ve been growing your presence for some time already but are struggling to drive sales, your goal should be to find out why you’re not making sales yet, and to improve your efforts. Then, you can concentrate on making sales. So, first step here is to look at what you have achieved so far, at what you haven’t achieved yet, and at what things you need to improve, and then to define your goals accordingly. <br><br><b>Learn About Your Audience </b><br>Unless your business offers a product or service with massive appeal, you can’t just think of “everybody” as your audience. In fact, the more time you spend interacting with your would-be customers, the more you realize that your audience is a narrow segment of people with a particular interest or need that you fulfill. So, before you set out to create content and advertising campaigns, think of your perfect customer. Think of exactly who that person is who is likely to buy your product. Think of his needs, think of his wants, think of his social circle, think of the place he lives in, think of the type of content he consumes and the online places he visits. Now visit the websites and social pages where that person hangs, go to the online stores where he is more likely to buy his stuff. Then learn about the people that hang on those places and create a customer profile based on matching attributes. That is going to be the average member of your audience! <br><br><b>Establish An Engagement Strategy </b><br>Your engagement strategy is the combination of methods that you are going to use to interact with your audience, and the methods you’ll use to retain its attention. Now, while engagement strategies don’t vary widely from one campaign to another, it is important to know that type of interaction and what type of platform your audience likes the most. In your case, you have to define what channel your audience favors first. This means you have to try whether your get the most engagement on your page or in your group. Once you define your engagement channel, you have to define what type of content your audience likes the most. You’ll find out with time, most likely during the first three to four weeks of posting content. It could be that your audience likes videos more, or infographics, or facts, or list articles. Once you define the content that your audience likes the most, you have to define how they like to communcate with you. In general, people simply love when you reply to their comments, and when you like or share relevant or funny comments. <br><br><b>Establish A Content Schedule </b><br>It is vital that you establish a content schedule based on the type of content that your audience likes the most. So, if you find that your audience can’t get enough of your videos, schedule one to two video posts a day, at the right times. For more information on how to develop a content schedule the right way, check out lesson 6, “Creating A Facebook Content Marketing Calendar And Scheduling Posts”. <br><br><b>  Determine Your Ad Strategy </b><br>We mentioned elsewhere in this training before, but this is worth repeating: your organic strategies are crucial, but they can only get you so far. If you don’t want to limit the scope and reach of your Facebook Marketing efforts, then you will have to invest in Facebook ads. And it is important that you define an ad strategy, again, based on the goals that you want to achieve. The good news is that an ads campaign can help you accelerate the process of achieving those goals, and you can launch ad campaigns that are optimized for each goal you want to achieve. So, the step here is to determine at what stage of your Latest Facebook Marketing efforts you are, and to launch a campaign to accelerate the objective. Involve Your Team If you are working with a team, it is vital that you make it part of your Facebook Marketing plan. Now, involving your team doesn’t simply mean to get them to work on the strategy, or to push them to their 100 percent.   It means that you have to encourage them to be a part of your Facebook social activity. Give them incentives to share content from your page, to follow your pages, and to participate in your groups. By having your team actively participating with your brand on the platform, you can accelerate through leadership and organic relevance.<br><br><a href=\"CHAPTER = 11.html\">&lt;&lt; CHAPTER = 11 &nbsp;</a> &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"CHAPTER = 13.html\">CHAPTER = 13 &gt;&gt;</a></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "scWgBdAtP3",
+          "_anchor": "content4-d",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "CHAPTER = 13.html": {
+      "settings": {
+        "meta_descr": "Site Generator Description",
+        "title": "CHAPTER = 13",
+        "order": 11
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323",
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">Chapter 13:\n<div>Latest Facebook Marketing Strategies For Local Businesses\n</div></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Facebook Marketing is designed with brands and businesses of all sizes in all niches, but you’d be surprised to know how local businesses can benefit from a well-run Facebook Marketing campaign. We’d like to dedicate this lesson to teaching local business owners and marketers running campaigns for local businesses the best Facebook Marketing strategies to help them increase local awareness, nationwide awareness, increased sales, and improved in- store traffic. <br><br><b>Build A Collection Of Reviews For Your Page </b><br> You are well aware that positive word-of-mouth is a powerful marketing tool that works every time. The online equivalent of word-of-mouth are customer reviews, and they’re the best way to build social proof that actually generates more customers and more sales.   What you have to do then is to build a collection of reviews to showcase on your Facebook page. You can do this by encouraging customers to leave a comment about their customer experience on your page, or by adding a Facebook review. Additionally, you can take screenshots of reviews from other sites, such as Yelp or Google, and to create an album to upload those reviews! <br><br><b>Create Events</b>&nbsp;<br>Local businesses have to always run in-store events to stay on top of the mind among local customers. With Facebook, it gets easier to raise awareness about your in-store events because you can promote your events on your page. When you create an event on Facebook, you can even send invites and reminders, so no one has an excuse to miss it out! To create an event on Facebook, you simply have to click on the “event” tab in the “create” section of your Facebook page. <br><br><b>Curate Local</b> <b>Content</b><b><br></b> Building a presence for a local business on Facebook, or anywhere else online for that matter, can be brutally difficult because your audience is likely to be only the people that buy on your store or that get services from your business. So, if you want to encourage more people to like the Facebook page for your local business, you have to post content that is other than your promotions and staff pics. You have to post interesting content that picks the interest of local customers, and the best way to do that is by curating content from local sources. When local businesses do this, their number of followers explode like crazy. This is because they become like content feeds that people use to get their local information and news. What you have to do then is to create a list of local content sources, such as local news websites, local job sites, websites for local artists and musicians, as well as websites for places of local interest, such as museums, parks, concert venues, and movie theaters. Then start curating content from them, such as announcements and news, to keep local users glued to your Facebook page! <br><br><b>Mention Other Local Businesses And Events</b> <br>Similarly, you can mention other local businesses and events in your publications. When you do this, you allow for cross-promotion, and your business will stay on top of the mind among local business owners, local companies, and local event planners. What you have to do is to watch out for upcoming events and announcements from local businesses using your local content sources, and to mention them in your posts when you curate content related to them or promoting by themselves! <br><br><b>Tag Locations</b> <br>A very smart way to generate local traffic and to make your local business page more discoverable is by tagging locations in your proximity. This will help you because your posts will show on searches for these locations. The strategy here is simple. All you have to do is to share information about places of interest near your store or business, and within your state, such as parks, monuments, zoos, nature reserves, venues, restaurants, and historical locations. Share information during holidays related to those places, or interesting facts, and tag them. You are going to be surprised about how much traffic and engagement this strategy generates, and about how it can help you to attract customers from afar, such as people visiting your town! <br><br><b>Encourage In-Store Traffic </b><br>Lastly, you can encourage in-store visits by promoting offers such as price reductions and limited-time deals on your Facebook page. This strategy works better when you ask the user to show you “proof” when they visit your store, such as a print coupon.<br><br><a href=\"CHAPTER = 12.html\">&lt;&lt; CHAPTER = 12</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"CHAPTER = 14.html\">CHAPTER = 14 &gt;&gt;</a></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "scWgQHUAXo",
+          "_anchor": "content4-e",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "CHAPTER = 14.html": {
+      "settings": {
+        "meta_descr": "Web Site Generator Description",
+        "title": "CHAPTER = 14",
+        "order": 10
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323",
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">Chapter 14:\n<div>Crazy Ways To Make Traffic To Your Facebook Pages Explode\n</div></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">&nbsp;Driving traffic to your Facebook engagement channels, mainly to your Facebook pages, is priority number one in your Latest Facebook Marketing efforts. And while you might think that the tactics and strategies, we showed you the best things to try out, but you’ll be happy to learn that there are extra ways to squeeze out traffic to your Facebook pages from unexpected sources. In this lesson we are going to discuss some of the smartest tricks that we have been trying for amazing results, and we strongly encourage you to try them out too! Include Your Facebook Page URL In Your Email Signatures One thing that email marketers will tell you is that the content that you include in your email signatures is key to driving actions from simple communications.   That is why you see marketers and business owners including a link to their social profiles or websites in their email signatures. They know that recipients are highly likely to click on them. So, a very smart way to send qualified traffic to your Facebook pages is by including your Facebook page URL in your email signatures. All you have to do is to include a call to action below your name in the signature that reads “find me on Facebook”, or “my company on Facebook”, and to include a hyperlink inside the text. This simple strategy will help you double traffic from email to your Facebook pages quickly and easily! <br><br><b>  Send E-Mail Blast Campaigns </b><br>To Promote Your Pages You can send an email blast to your contacts when you create your Facebook page to let them know that your company is now on Facebook. You will get a significant number of likes and follows on your page this way. But that’s only part one of this strategy, because you can send a second email blast to email subscribers that opt-in on your site, and to email leads that you capture on other channels, sometime after you send the first email blast. This email blast is to also let them know that they can also follow you and interact with you on Facebook.   But be careful! Because you can send this email blast to subscribers that are not following you on Facebook yet, so make sure to prepare a list of no-followers whom to send your email blast first. <br><br><b>Install A Social Sharing Plugin</b> <br>On Your Websites A very effective strategy to encourage people to visit and like your Facebook pages is by encouraging them to share your content first. Now, you can’t hope that people will share your content with their Facebook friends just because, you have to make it easy for them to do so. Luckily, you can add social sharing buttons to your content pages so people reading your content on your website can forward it to their Facebook friends with a single click. If you use WordPress as your content management system, installing social sharing buttons on your pages is easy because you can install them with a plugin. There are literally dozens of social share plugins available, but we recommend the following: Social Snap Easy Social Share Buttons MashShare WP Social Sharing Social Pug Engage With Other Facebook Pages and Groups <br>Another good way to drive qualified traffic to your Facebook pages is by engaging with <b>other Facebook pages and groups</b> using your page.   This increases your page’s visibility and encourages people to take a look at your brand name and logo, to visit your page, and liking your page afterwards. And if you post thoughtful comments that add value to publications on other pages and groups in your niche, you also increase your brand’s authority. Optimize Your Content For Mobile The number of mobile users grows year by year, but not all content is optimized for mobile, which makes it difficult to share. This means that you have to make sure that all the content you publish is mobile-friendly and responsive. To ensure this, use media that fits all possible formats, and preview your posts before publishing them to make sure they look good on mobile devices.<br><br><a href=\"CHAPTER = 13.html\">&lt;&lt; CHAPTER = 13 </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"CHAPTER = 15.html\">CHAPTER = 15 &gt;&gt;</a></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "scWh7TMuAf",
+          "_anchor": "content4-f",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "CHAPTER = 15.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "CHAPTER = 15",
+        "order": 9
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323",
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">Chapter 15: <br>Latest Facebook Contest Ideas To Try In 2020</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Running contests, giveaways, and sweepstakes has been a staple of Facebook Marketing since the platform was born, and it has never ceased to be a great, effective strategy. But because you need to innovate to stay ahead of the curve and relevant, it is important to try different contest ideas that keep your leads entertained. The following are the contest ideas that people like the most and that encourage the most participation, and we invite you to try them all!<br><br><b>Like, Comment, And Share To Win</b> Inviting users to engage with a post is the classic Facebook giveaway method, and it works wonderfully still to this day. The idea is to get people to interact with a Facebook post to earn entries in a contest. It is a win-win for the user and for you, because the user gets an opportunity to earn the prize for each interaction he completes, and it boosts the relevance of your post because of all the engagement you’ll get. What you have to do is to simply announce your contest and to tell users that to participate they have to like, comment, and share on the contest post. To make it even more enticing, tell participants that each interaction is valid for an entry, which means that they earn an opportunity to win the prize per each interaction they complete! <br><br><b>Caption Or Meme Contest </b><br>Encouraging users to create the best possible caption for an image, or to create a meme, so they enter a contest is an amazing way not only of getting people to join the giveaway, but also an amazing way to build brand loyalty. This is because the effort required to participate in this type of contest forces the participant to invest their time and their energy thinking about your brand. This will in turn force them to stick to your brand in the future, and to think of your brand when considering products and services in your niche. <br><br><b>  Fill-In-The-Blanks</b><br>Fill-in-the-blanks contests are becoming more and more popular by the day thanks to their simplicity and the feeling of childlike joy people experience when they participate. This is as simple as composing an incomplete sentence and challenging your followers to fill in the blanks. You can tell them that the most accurate sentence, the funniest sentence, or the craziest sentence wins. This type of content is highly entertaining, can be done quickly, and can be run more frequently because of their simplicity. <br><br><b>Photo Contest</b> <br>Photo contests are great, and they attract a lot of attention, but they tend to generate little participation because of the high entry barrier. Still, they’re worth trying and will no doubt help you to reach an exclusive segment of your audience that you wouldn’t have reached otherwise. And although they don’t generate a lot of participation, they do attract, like we said, a lot of attention, and you’ll get a lot of new followers just because there will be people following the contest. To organize a photo contest, all you have to do is to ask users to take a picture about a topic, preferably related to your products or services. You can instruct users to submit their photos to your inbox so you can post them in a gallery or in your timeline, but a neat trick is to ask participants to upload the photo themselves and to tag you in the pictures. This is a clever way to indirectly promote your page to those participants’ friends. <br><br><b>Questions And Answers</b> <br>Contest Questions and answers contests are also easy and quick to organize. You simply have to ask your fans a question that they have to respond to participate. Now, you can use some creativity here, and instead of asking for direct questions, ask them to give you incorrect answers, or funny answers, and tell them you’ll select the best one later on. This has the same effect as the Caption contest in that users will be forced to put mental effort into a request from our brand. Best of all, users that don’t win will be encouraged to participate in new Q &amp; A contests as long as they are entertaining! <br><br><b>  User Generated Content</b>&nbsp;is a new type of contest that’s all about asking your fans to produce branded content using their own means.   This type of contest is really cool because it gives participants full freedom to create content that’s about your brand, and you’ll be stunned by how much engagement these contests generate. User generated content contests also give fans an opportunity to showcase their skills, and that can motivate people to participate, even more than the reward. The possibilities are many, and a few examples would include asking your fans to create a new logo for your brand, to draft the design overhaul for your website, to compose a new slogan, to create a t-shirt design for your in-store staff, and so on. To increase the buzz around your user generated content contest, you are going to select up to three finalists, and then you are going to pick a prize winner among those three and will give a surprise reward to the other two finalists.<br><br><a href=\"CHAPTER = 14.html\">&lt;&lt; CHAPTER = 14 </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"CHAPTER = 16.html\">CHAPTER = 16 &gt;&gt;</a></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "scWhmNaW8v",
+          "_anchor": "content4-g",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "CHAPTER = 16.html": {
+      "settings": {
+        "meta_descr": "Web Page Generator Description",
+        "title": "CHAPTER = 16",
+        "order": 8
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323",
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">Chapter 16:\n<div>Latest Facebook Marketing Trends To Keep An Eye On In 2020</div></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">One thing you can take away from this training is that every single strategy we teach here is future proof, but you also have to learn that the best moment to prepare for what’s to come is now. And there’s no doubt that Facebook Marketing will change in the upcoming years. Some of these changes will happen sometime soon, and some are already happening. Advertising Costs If there’s one thing we love about Facebook advertising and about online advertising in general is that it is incredibly affordable when compared to other media.   Yet, the cost of advertising on Facebook has been rising year over year, and the trend isn’t stopping. While we don’t believe there’s a reason to worry about it, we do believe that you have to keep an eye on it in the upcoming months. While many marketers are baffled by this trend, we have tracked it to the growth in the number of advertisers joining the platform, which increased from 4 million just 3 years ago to 7 million in the current year. <br><br><b>Automation</b><br> Automation and Artificial Intelligence is on the rise, and adoption among Facebook marketers is steadily growing. It makes sense, seeing the benefits of automating customer care using chat bots, just to give you an example, but you have to consider that these technologies are still in their early stages and prone to mistakes, so it’s actually fine if you wait before adopting it. Some automation features are already running your ads without you noticing. These features include automatic placements and automated bids. Other features such as dynamic formats and automated creatives, as well as automated language translations, although far from perfect, provide a look into the future of Facebook advertising. The Simplified Mobile Experience Much of Facebook’s ad revenue, up to 93% of it, comes from mobile. Because of this, Facebook is looking to enhance and simplify the mobile experience. This means that, in the near future, the emphasis will be on mobile ads and mobile experiences. And just like the recent changes in how content is shown in the newsfeed, you can expect desktop content and desktop ads buried in favor of mobile content and mobile ads. And you can see glimpses of this mobile-first simplification when you optimize posts or ads for mobile: on desktop, you have to compose a headline, a description, a link headline, and to add a URL for the link preview. On mobile, all that content gets simplified to a single headline that contains your keywords and a link preview. The takeaway here is, practice simplifying your copy and fine tune the art of using long-tail keywords as headlines. You will be doing this a lot! <br><br><b>Facebook Stories </b><br>If you spend enough time on Facebook, you have surely noticed that Stories take considerable real estate in the top of your timeline. While Facebook users didn’t see the point of Stories when they were first introduced, their widespread use on Instagram has sparked adoption on Facebook as well, with more than 500 million daily Facebook users creating Stories. In keeping with the mobile-first trend discussed before, Facebook recommends people to shoot mobile-style stories for newsfeed stories and for ads because they better resemble organic content and can help you generate more engagement and better results because they look more authentic. So, keep this in mind the next time you produce content for Facebook. Start practicing creating visual content for Stories instead of creating static posts only, as this will help you stay in the loop if they ever overdo classic posts in the timeline.   Video For Increased Engagement Video is the most engaging marketing format, period. Not only on Facebook, but just about everywhere. A fun fact about video on Facebook is that most of it plays without audio by default. While this doesn’t mean that you have to create mute videos, it means that you have to create captions for each of your videos if you don’t want users scrolling past them. Video is so good for engagement that the Facebook marketing team has integrated it into tools that are not traditionally video oriented, such as polls.   This, along the rise of Stories and mobile-first content, means that you have to start focusing on video production.<br><br><b>Facebook Messenger</b><br>Messenger, Facebook’s built-in instant messaging tool, is becoming increasingly popular. So popular in fact that Facebook now allows you to create ads for Messenger users. In other words, promoted Messenger messages, right into a user’s inbox. As if this weren’t enough, the Messenger inbox is getting automated, with chatbot platforms selling chatbot services that integrate with your pages. And this is it friends, the current Facebook Marketing trends that are going to shape the future of Facebook Marketing!&nbsp;<br><br><a href=\"CHAPTER = 15.html\">&lt;&lt; CHAPTER = 15</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"CHAPTER = 17.html\">CHAPTER = 17 &gt;&gt;</a></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "scWhG5w9Ap",
+          "_anchor": "content4-h",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "CHAPTER = 17.html": {
+      "settings": {
+        "meta_descr": "Web Generator Description",
+        "title": "CHAPTER = 17",
+        "order": 7
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323",
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">Chapter 17:\n<div>Latest Facebook Marketing (Do’s And Don’ts)\n</div></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\"><p style=\"font-size:50px\"><i>Do’s</i></p><b> ✓</b> Stick To A Posting Schedule Sticking to a posting schedule gives you complete control of your content strategy, of the time you invest in your Facebook Marketing efforts, and to stay consistent without losing track of your other marketing activities. <br><b>✓&nbsp;</b>Use Visuals Create posts that disrupt the newsfeed experience in a positive way by always adding attention-grabbing images such as infographics, videos, and link previews in your posts. <br><b>✓</b> Ask Questions To Your Audience. Let your fans and would-be customers to take control of the conversation by asking them thoughtful questions about the problems they’re facing so you can learn of better ways to help them solve them. <br><b>✓</b> Boost Your Most Successful Posts.You can squeeze out more engagement and results from your most successful posts simply by promoting them some time after you publish them, and you can do it easily simply by clicking on the “boost” button. <br>  Stick To Your Goals Make sure that your Facebook Marketing activities is congruent with your current goals. If your current goal is to reach more people, then publish more discoverable posts and boost them, and so on. <br>  Integrate Shopping In Your Page You can integrate shopping features in your Facebook page after you create awareness about your products, to increase direct sales and drive more profitable goals. Ecommerce solutions can help you do this, at a very affordable cost.   Split Test Your Posts And Ads It is a good idea to test two or more variations of the same ad or post, directed at different segments of the same audience. This will help you learn how to optimize your posts and ads with the type of content that your audience likes the most.   Create A Voice For Your Brand Develop a unique voice for your brand. This can be in the form of the type of visuals you post, or the way you compose your posts. In short, develop a way for your audience to recognize your brand anywhere! Leverage Your Page’s Real Estate You can use the space provided by your cover photo as a billboard to promote stuff such as new products, promotions, and sign-up forms. <br>  Use Insights and Track Your Results You can use tools such as the Facebook Insights dashboard to learn about how your posts, campaigns, and ads are performing. By analyzing the engagement and reactions to your posts and ads, you’ll be better equipped to create better content.<br> <br><p style=\"font-size:50px\"><i>Don’ts</i></p><b>✕</b> Don’t Use A Dummy Personality.A big, important part of online marketing is being authentic. If you’re tempted to use a dummy profile to protect your privacy, be aware that customers won’t be able to trust your brand if you don’t show them your face, so make sure that you present yourself as the person behind the brand. <br><b>✕</b> Don’t Over Post Avoid posting beyond the recommended frequency. While you can get away with an additional post when you need to make an announcement or participate in a trending topic, posting too many times can put your audience off quickly. <b>✕</b> Don’t Argue With Unsatisfied Customers Don’t reply with an angry comment to a rude customer, or when someone leaves you a low-score review. Simply reply in a professional matter and try to help fix their problem. <br><b>✕</b> Don’t Be Slow To Respond Or Engage Facebook users expect a quick response to their comments and to the messages they send to your pages. Because of this, keep your notifications on and try to reply within the first hour. Having auto-reply turned on is the best way to deal with it. <br><b>✕</b> Don’t Go Over Budget You won’t get better results simply by putting more money into your ad campaigns. Instead of going over budget, simply set up your campaigns correctly, optimize your ads, and wait for engagement to build. <br><b>✕</b> Don’t Target Too Broadly If you’re tempted to target a broad audience in hopes of interacting with a large number of people, don’t. The larger the audience, the more people that will end up ignoring your ads. <br><b>✕</b> Simply target the people interested in what you have to offer, and you’ll do great!   Don’t Over Promote While the ultimate goal of your business is to make a profit, you can’t focus your marketing campaigns on driving sales or promoting your products. Instead, feed your audience with content that helps them solve their problems, and they’ll become customers. <br><b>✕</b> Don’t Spam Don’t use Facebook pages or brand identity to go around sharing links on public groups, pages, and Messenger inboxes. <br><b>✕</b> Don’t Ignore The Facebook Terms and Conditions Ignoring Facebook terms of use is an easy way to violate a rule, and get your account suspended without knowing why, so make sure to read it all before you run a marketing campaign, and before you create an ad.&nbsp;<br><br><a href=\"CHAPTER = 16.html\">&lt;&lt; CHAPTER = 16</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href=\"CHAPTER = 18.html\">CHAPTER = 18 &gt;&gt;</a></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "scWig5Fmpv",
+          "_anchor": "content4-i",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "CHAPTER = 18.html": {
+      "settings": {
+        "meta_descr": "Site Maker Description",
+        "title": "CHAPTER = 18",
+        "order": 6
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323",
+              "text-align": "center"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">Chapter 18:\n<div>Latest Marketing Premium Tools And Services To Consider\n</div></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\"><b>AGORAPULSE</b><br><img src=\"assets/images/014.jpg\"><br> Agorapulse is a social media management tool for Facebook Marketers of all levels. It lets you schedule content, get reports, and engage followers the easy way, all from a single dashboard. Its features include reschedules, bulk posting, comment management, mention management, unlimited one-click reports, real-time team collaboration tools, and built-in CRM.<br><br><b>SHORTSTACK</b><br><img src=\"assets/images/015.jpg\"><br>Shortstack is a social media marketing platform that allows you to run contests, collect leads, and send emails from Facebook, all from a single platform. Not only that, because shortstack integrates other top-level features including easy hashtag and comment contest set ups, referral giveaways, instant giveaways, user generated content contest set ups, embed campaigns, and follow up series! <br><br><b>  FACEBOOK PAGE BAROMETER</b><b><br></b><img src=\"assets/images/016.jpg\"><br>The Facebook Page Barometer is another Facebook Marketing tool brought to you by Agorapulse. With it, you’ll be able to find out how your page performs compared to a database of almost 54,000 other pages. The Facebook Page Barometer provides you with insights you won’t find anywhere else, such as the number of people you have reached with your last 50 posts, where your page stands among pages with a similar range of fans, and analyzes content delivery data based on your organic reach!<br><br>   <b>FANPAGE KARMA</b><b><br></b><img src=\"assets/images/017.jpg\"><br>Fanpage Karma is an incredibly useful social media management tool that can analyze an unlimited number of Facebook pages and profiles. What it does is that it analyzes your Facebook pages and shows you an overview and a score. What’s more, it provides you with hard to get insights that include page content, timing, fan engagement, tagging, and more. <br><br><b>  POSTPLANNER</b><br><img src=\"assets/images/018.png\"><br>PostPlanner is a low-cost social media tool that has all the features of a premium, more expensive tool. With PostPlanner you are guaranteed a 510% increase in engagement. It has a powerful feature called the “discovery engine”, which analyzes content from tens of thousands of content feeds across the web to help you identify top-performing content that you can use to engage your audience. It also has a built-in content calendar that will allow you to easily plan and execute your content marketing schedule, because it also automates posting!<br><br><b>  PAGEMODO</b><b><br></b><img src=\"assets/images/019.jpg\"><br>Pagemodo is a powerful customization tool that you can use to personalize your Facebook pages and ads. With Pagemodo you can create striking cover photos, professional looking welcome tabs, custom menu tabs, and personalized contests.   With Pagemodo you can also create and schedule highly engaging posts quickly using its “suggested posts” feature, which helps you find great content to share, which you can then personalize using the “post designer”. <br><br><b>  MOBILEMONKEY</b><br><img src=\"assets/images/020.jpg\"><br>MobileMonkey is an integrated chatbot platform that works seamlessly with Facebook Messenger. What it does is automate customer care by adding a bot that automates messaging and the inbox in your Facebook page. It not only adds a chat bot to your page, it also helps you get more leads by accelerating response times, to get more sales by accelerating purchasing decisions through automated conversations, and builds customer relationships more easily by making Messenger your main communications channel!<br><br><b>SOCIALBAKERS</b><b><br></b><img src=\"assets/images/021.jpg\"><br>Socialbakers is an AI powered social media marketing tool that will help you to better understand your Facebook audience so you can create the type of content they engage with the most. It works by letting its AI discover who your marketing personas are and what type of content they digest. Some of the features offered by this tool include social customer care, content strategy, social listening, measurement and reporting, and influence marketing.<br><br><b>PERFECT AUDIENCE</b><b><br></b><img src=\"assets/images/022.jpg\"><br>Perfect Audience is a Facebook retargeting platform for mobile and desktop. It puts all of Facebook retargeting features under a single application and can be set up in only minutes. It lets you retarget on the web, on mobile, and on Twitter, it integrates seamlessly with your storefronts, it lets you create dynamic, fully personalized shopping ads, and it is cross-device.<br><br><b>QWAYA</b><b><br></b><img src=\"assets/images/023.jpg\"><br>Qwaya is a Facebook and Instagram ads tool for advertising professionals. A Facebook advertising partner, Qwaya offers you a platform that integrates an ad scheduler, ad and campaign rules, ad rotation, URL builder, Google Analytics tagging, multi-user accounts, targeting an ad templates, campaign organizer, split testing, multi product ads, Excel data exports, and free training sessions that’ll help you dominate the platform!<br><br><a href=\"CHAPTER = 17.html\">&lt;&lt; CHAPTER = 17</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"CHAPTER = 19.html\">CHAPTER = 19 &gt;&gt;</a></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "scWiuy13Ug",
+          "_anchor": "content4-j",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "CHAPTER = 19.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "CHAPTER = 19",
+        "order": 5
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323",
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">Chapter 19:\n<div>FAQs\n</div></h2><center><img src=\"assets/images/013.jpg\" style=\"width:30%; height:30%\"></center>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\"><b>Are Facebook Marketing and Facebook Advertising The Same?</b> <br>Marketing and advertising are two different promotional methods and in fact, you can say that advertising is a marketing strategy. So, when you talk about Facebook marketing, you refer to the collection of methods and strategies used to raise awareness about the existence of a brand or a business in the Facebook platform. Facebook advertising, on the other hand, is the use of direct, paid methods to advertise a brand or business in the Facebook platform. <br><br><b>When Is It Right To Promote Your Business On Facebook?</b> The right moment to start promoting your business on Facebook is now, as soon as you can if haven’t started yet, and this is because Facebook is still the most visited, most popular social media site in the world. <br><br><b>Is There A Better Platform For Marketing Than Facebook?</b> In terms of features and flexibility, Facebook is the best platform for marketing. What you have to find out though is whether your audience is using Facebook and not another platform. If you come into Facebook looking for the wrong audience, you might get poor results. <br><br><b>Is It True That Facebook Engagement Is Declining?</b><b><br></b>Not true at all. That perception comes from poor audience targeting. When marketers are not sure about how to properly narrow down their target audiences, they try to reach everyone. What happens next is that they actually get low engagement, and they end up thinking that all engagement overall is the same.<br><br> <b>When Is It A Good Time To Start Running Facebook Ads?</b> This depends on the stage you are in and your budget. If you are building an audience in the awareness stage, then it is safe to test a “reach” ad to see how people that see your ad in the timeline react. On the other hand, if you are on Facebook simply to promote a product, you can benefit from running an awareness campaign to showcase the product that you want to promote. In these cases, you won’t need to build momentum with content, just to promote your product.<br><br><b>How Do You Know When Ads Are Profitable?</b><b><br></b>You’ll know if an ad is profitable if you get your ad spend back. Not only that, but you also have to be able to put that spend back on a new campaign and to keep a profit, or to increase your ad spend with that profit. That’s how you know when an ad is profitable! Are Facebook Ads Better Than Ads On Other Platforms? The advantage of Facebook ads is that they let you target people by the interests in their profile. This is a direct targeting method not available on other platforms, and helps you reach customers that are very qualified from the get-go! What Can You Do If You’re Not Capturing Enough Leads Through Your Sign-Up Tab? If you’re having trouble capturing leads through sign-up tab, it might be because it isn’t visible enough. Our recommendation here is to move the sign-up tab to a top spot in the tab menu. Another option is to integrate a sign-up page using the “add a button” feature in your page, selecting “sign up”, and adding your sign-up form URL.<br><br><b>What Tools Can Help You Power Up Your Facebook Marketing Efforts?</b><b><br></b>While you will find everything you need inside Facebook, some of our recommendations would include a free editing tool such as “Canva” to help you create better images for your posts, a social posting and scheduler such as “Hootsuite”, and an advanced Facebook ads editor such as “AdEspresso”.<br><br><a href=\"CHAPTER = 18.html\">&lt;&lt; CHAPTER = 18 </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"THANKYOU.html\">CHAPTER = 20 &gt;&gt;</a></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "scWiIQRDBg",
+          "_anchor": "content4-k",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "THANKYOU.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "THANK YOU",
+        "order": 4
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                    THANK YOU</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">We’re thrilled that you have chosen to take advantage of our Training Guide, and we wish you amazing success. Thanks so much for the time you have dedicated to learning how to get the most advantages from Facebook Marketing. Facebook Marketing have come to stay in the market forever.\n<div>&nbsp;To Your Success, </div><br><div> S.S LEONARD TYLER\n</div><div><br></div></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "scWiZJxRln",
+          "_anchor": "content4-l",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "DISCLAIMER.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "DISCLAIMER",
+        "order": 3
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\"><u>Disclaimer</u></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">This work may not be copied, sold, used as content in any manner or your name put on it until you buy sufficient rights to sell it or distribute it as your own from me. Every effort has been made to be accurate in this publication. The publisher does not assume any responsibility for errors, omissions or contrary interpretation. We do our best to provide the best information on the subject, but just reading it does not guarantee success. You will need to apply every step of the process in order to get the results you are looking for. This publication is not intended for use as a source of any legal, medical or accounting advice. The information contained in this guide may be subject to laws in the United States and other jurisdictions. We suggest carefully reading the necessary terms of the services/products used before applying it to any activity which is, or may be, regulated. We do not assume any responsibility for what you choose to do with this information. Use your own judgment. Any perceived slight of specific people or organizations, and any resemblance to characters living, dead or otherwise, real or fictitious, is purely unintentional. Some examples of past results are used in this publication; they are intended to be for example purposes only and do not guarantee you will get the same results. Your results may differ from ours. Your results from the use of this information will depend on you, your skills and effort, and other different unpredictable factors. It is important for you to clearly understand that all marketing activities carry the possibility of loss of investment for testing purposes. Use this information wisely and at your own risk.&nbsp;<br><br>&nbsp; &nbsp;</h3><h2 class=\"align-center\"><button><a href=\"CHAPTER = 1.html\" class=\"text-primary\">I AGREE&nbsp;&gt;&gt;</a></button><br><br><button>I DISAGREE</button></h2>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "scWkPZNMCV",
+          "_anchor": "content4-n",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "START THE TRAINING.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323"
+            },
+            ".button": {
+              "border": "none",
+              "color": "rgb(0, 0, 0)",
+              "padding": "16px 32px",
+              "text-align": "center",
+              "text-decoration": "none",
+              "display": "inline-block",
+              "font-size": "40px",
+              "margin": "4px 2px",
+              "transition-duration": "0.4s",
+              "cursor": "pointer"
+            },
+            ".button1": {
+              "background-color": "rgb(14, 14, 14)",
+              "color": "rgb(255, 255, 255)",
+              "border": "2px solid rgb(0, 0, 0)",
+              "border-radius": "50%"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\"><img src=\"assets/images/mockup.png\" width=\"400\" height=\"550\" style=\"width: 395.5px; height: 543.813px;\"></h2>\n                <h2 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-1\"><a href=\"DISCLAIMER.html\"><button class=\"button button1\">START</button></a></h2>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "scW8nrK9lT",
+          "_anchor": "content4-1",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "THANK YOU.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "THANK YOU FOR YOUR TIME",
+        "order": 2
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".title": {
+              "margin-bottom": "2rem"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#767676"
+            },
+            "a:not([href]):not([tabindex])": {
+              "color": "#fff",
+              "border-radius": "3px"
+            },
+            "a.btn-white:not([href]):not([tabindex])": {
+              "color": "#333"
+            },
+            "textarea.form-control": {
+              "min-height": "188px"
+            }
+          },
+          "_name": "form1",
+          "_customHTML": "<section class=\"mbr-section form1\" group=\"Forms\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"6\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#c1c1c1\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.9\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-12 col-lg-8\">\n                <h2 mbr-if=\"showTitle\" class=\"mbr-section-title align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    CONTACT FORM\n                </h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\">\n                    It's very bad to see you go!<br>FEEL FREE TO CONTACT US IF YOU FEEL THE SAME.</h3>\n            </div>\n        </div>\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div mbr-form class=\"media-container-column col-lg-8\">\n                <!---Formbuilder Form--->\n                <form action=\"ssleotyler@gmail.com\" name=\"Mobirise Form\" method=\"POST\" class=\"mbr-form form-with-styler\">\n                    <div class=\"row\">\n                        <div hidden=\"hidden\" data-form-alert class=\"alert alert-success col-12\">Thanks for filling out the form!</div>\n                        <div hidden=\"hidden\" data-form-alert-danger class=\"alert alert-danger col-12\">\n                        </div>\n                    </div>\n                    <div class=\"dragArea row\">\n                        <div class=\"col-md-4  form-group\" data-for=\"name\">\n                            <label mbr-text mbr-theme-style=\"display-7\" for=\"name\" class=\"form-control-label mbr-fonts-style\">Name</label>\n                            <input type=\"text\" name=\"name\" data-form-field=\"Name\" mbr-theme-style=\"display-7\" required=\"required\" class=\"form-control\" placeholder=\"Type your Name\">\n                        </div>\n                        <div class=\"col-md-8  form-group\" data-for=\"email\">\n                            <label mbr-text mbr-theme-style=\"display-7\" for=\"email\" class=\"form-control-label mbr-fonts-style\">Email</label>\n                            <input type=\"email\" name=\"email\" data-form-field=\"Email\" mbr-theme-style=\"display-7\" required=\"required\" class=\"form-control\" placeholder=\"example@domain\">\n                        </div>\n                        <div data-for=\"phone\" class=\"col-md-4  form-group\" hidden=\"hidden\">\n                            <label mbr-text mbr-theme-style=\"display-7\" for=\"phone\" class=\"form-control-label mbr-fonts-style\" hidden=\"hidden\">Phone</label>\n                            <input type=\"tel\" name=\"phone\" data-form-field=\"Phone\" mbr-theme-style=\"display-7\" class=\"form-control\" hidden=\"hidden\">\n                        </div>\n                        <div data-for=\"message\" class=\"col-md-12 form-group\">\n                            <label mbr-text mbr-theme-style=\"display-7\" for=\"message\" class=\"form-control-label mbr-fonts-style\">Message</label>\n                            <textarea name=\"message\" data-form-field=\"Message\" mbr-theme-style=\"display-7\" class=\"form-control\" placeholder=\"Type Here\"></textarea>\n                        </div>\n                        <div class=\"col-md-12 input-group-btn align-center\" mbr-buttons=\"true\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove,-mbrBtnLink,-mbrBtnAdd\">\n                            <a type=\"submit\" class=\"btn btn-primary btn-form\">SEND FORM</a>\n                        </div>\n                    </div>\n                </form><!---Formbuilder Form--->\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_cid": "sdvnvzhrCr",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "form1-s"
+        }
+      ]
+    },
+    "GOODBYE.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "GOODBYE",
+        "order": 1
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".title": {
+              "margin-bottom": "2rem"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#767676"
+            },
+            "a:not([href]):not([tabindex])": {
+              "color": "#fff",
+              "border-radius": "3px"
+            },
+            "a.btn-white:not([href]):not([tabindex])": {
+              "color": "#333"
+            },
+            "textarea.form-control": {
+              "min-height": "188px"
+            }
+          },
+          "_name": "form1",
+          "_customHTML": "<section class=\"mbr-section form1\" group=\"Forms\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"6\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#c1c1c1\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.9\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-12 col-lg-8\">\n                <h2 mbr-if=\"showTitle\" class=\"mbr-section-title align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    CONTACT FORM\n                </h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\">\n                    It's very bad to see you go!<br>FEEL FREE TO CONTACT US IF YOU FEEL THE SAME.</h3>\n            </div>\n        </div>\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div mbr-form class=\"media-container-column col-lg-8\">\n                <!---Formbuilder Form--->\n                <form action=\"ssleotyler@gmail.com\" name=\"Mobirise Form\" method=\"POST\" class=\"mbr-form form-with-styler\">\n                    <div class=\"row\">\n                        <div hidden=\"hidden\" data-form-alert class=\"alert alert-success col-12\">Thanks for filling out the form!</div>\n                        <div hidden=\"hidden\" data-form-alert-danger class=\"alert alert-danger col-12\">\n                        </div>\n                    </div>\n                    <div class=\"dragArea row\">\n                        <div class=\"col-md-4  form-group\" data-for=\"name\">\n                            <label mbr-text mbr-theme-style=\"display-7\" for=\"name\" class=\"form-control-label mbr-fonts-style\">Name</label>\n                            <input type=\"text\" name=\"name\" data-form-field=\"Name\" mbr-theme-style=\"display-7\" required=\"required\" class=\"form-control\" placeholder=\"Type your Name\">\n                        </div>\n                        <div class=\"col-md-8  form-group\" data-for=\"email\">\n                            <label mbr-text mbr-theme-style=\"display-7\" for=\"email\" class=\"form-control-label mbr-fonts-style\">Email</label>\n                            <input type=\"email\" name=\"email\" data-form-field=\"Email\" mbr-theme-style=\"display-7\" required=\"required\" class=\"form-control\" placeholder=\"example@domain\">\n                        </div>\n                        <div data-for=\"phone\" class=\"col-md-4  form-group\" hidden=\"hidden\">\n                            <label mbr-text mbr-theme-style=\"display-7\" for=\"phone\" class=\"form-control-label mbr-fonts-style\" hidden=\"hidden\">Phone</label>\n                            <input type=\"tel\" name=\"phone\" data-form-field=\"Phone\" mbr-theme-style=\"display-7\" class=\"form-control\" hidden=\"hidden\">\n                        </div>\n                        <div data-for=\"message\" class=\"col-md-12 form-group\">\n                            <label mbr-text mbr-theme-style=\"display-7\" for=\"message\" class=\"form-control-label mbr-fonts-style\">Message</label>\n                            <textarea name=\"message\" data-form-field=\"Message\" mbr-theme-style=\"display-7\" class=\"form-control\" placeholder=\"Type Here\"></textarea>\n                        </div>\n                        <div class=\"col-md-12 input-group-btn align-center\" mbr-buttons=\"true\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove,-mbrBtnLink,-mbrBtnAdd\">\n                            <a type=\"submit\" class=\"btn btn-primary btn-form\">SEND FORM</a>\n                        </div>\n                    </div>\n                </form><!---Formbuilder Form--->\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "sdvmIGvPDf",
+          "_anchor": "form1-r",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    }
+  }
+}
