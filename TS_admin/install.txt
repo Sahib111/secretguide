@@ -1,0 +1,49 @@
+INSTALL INSTRUCTIONS
+--------------------
+
+1) Copy the files to a php enabled server folder.
+2) Make sure the folder has enough write permissions set, also the target output folder should have
+enough write permissions set.
+3) edit the password.php to use your admin name,password access values
+Example content of the password.php is:
+
+<?
+$username='admin';
+$password='admin';
+?>
+
+4) You should now be able to access index.php via the above access info and run the script.
+
+5) When you click 'Create pages' command button, the first batch of pages is generated,
+upon next access to build.php?cron=1 the next batches are generated. Also all the settings
+specified in the form are automatically saved in the config file.
+
+CRON USAGE
+----------
+
+1) Specify all settings in the form and click 'Save Settings' button.
+These settings will be used when running the script in unattended cron mode.
+
+2) You can use Reset (going to defaults) and 'load settings' (previous settings) button to speed up editing the last settings.
+Make sure you specify a keyword file and a target folder when saving the settings.
+
+3) Specify the number of pages to be generated on each cron run in the 'cron number of pages' option.
+
+4) Setup cron via CPanel or crontab, the cron access url is build.php?cron=1
+
+One some servers you can use: 
+
+GET <your site>/<folder where the script is installed>/build.php?cron=1
+
+or 
+
+wget "<your site>/<folder where the script is installed>/build.php?cron=1"
+
+at the cron command line.
+
+
+TWEAKS
+------
+
+* You can enter new default options by saving them via 'Save Settings' then copying the config.txt to inicon.txt
+In this way the settings in the inicon.txt will become the new default settings.

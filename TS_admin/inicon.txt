@@ -1,0 +1,27 @@
+<?
+$keywordfilename = "key1.txt";
+$myvars['ssep'] = "-";
+$myvars['title'] = "Title";
+$myvars['description'] = "Description";
+$myvars['url'] = "www.url.com";
+$myvars['indname'] = "Index_Name";
+$myvars['keywords'] = "50";
+$myvars['minresults'] = "20";
+$myvars['results'] = "20";
+$myvars['bgcolor'] = "#ffffff";
+$myvars['homepageurl'] = "www.homeurl.com";
+$myvars['sse'] = "2";
+$myvars['sitemapname'] = "te-test";
+$myvars['pagetype'] = "html";
+$myvars['structure'] = "tree";
+$myvars['removeboldtags'] = "YES";
+$myvars['cronnumpages'] = "1";
+$myvars['initnumpages'] = "3";
+$myvars['disablepopup'] = "no";
+$myvars['firstrun'] = "0";
+$myvars['load'] = "0";
+$myvars['reset'] = "0";
+$myvars['mode'] = "admin";
+$myvars['username'] = "admin";
+$myvars['adminpassword'] = "admin";
+?>
